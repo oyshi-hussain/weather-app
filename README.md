@@ -40,3 +40,7 @@ npx expo start
 - 📱 Xcode (for iOS Simulator)
 - 📱 Android Studio (for Android Emulator)
 - 📱 Physical device — install Expo Go app and scan the QR code
+
+
+## Preview
+<img src="./assets/weatherAppScreenshot.png" alt="Weather App Screenshot" width="300"/>
